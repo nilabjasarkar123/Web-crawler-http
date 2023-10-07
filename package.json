@@ -1,0 +1,23 @@
+{
+  "name": "web-crawler-http",
+  "version": "1.0.0",
+  "description": "Crawl a website and produce a report of internal linking structure of the website  basically which pages link to which other pages  on the site",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nilabjasarkar123/Web-crawler-http.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nilabjasarkar123/Web-crawler-http/issues"
+  },
+  "homepage": "https://github.com/nilabjasarkar123/Web-crawler-http#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
